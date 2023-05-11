@@ -1,0 +1,19 @@
+{
+  "name": "week-10-logomaker",
+  "version": "1.0.0",
+  "description": "USER STORY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockHanni/Week-10-LogoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockHanni/Week-10-LogoMaker/issues"
+  },
+  "homepage": "https://github.com/BrockHanni/Week-10-LogoMaker#readme"
+}
