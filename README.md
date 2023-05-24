@@ -35,3 +35,46 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+
+
+# Logo Creator
+
+When running this code, you will be asked to input up to three characters, choose colors and a shape. The code will then generate an SVC file with your new logo!
+
+## Installation
+
+To install, run npm i
+
+## Usage
+
+To use, after installation, run npm start, or node server.js
+
+## Test
+
+Testing can be done by running the code above.
+
+## Contributing/Contact
+
+To submit bug reports, feature requests, or pull requests, please email me at hannibr26@gmail.com, or visit my GitHub page: brock.hanni(https://github.com/brock.hanni)
+
+## License
+
+Licenses used: tbd
+
+## Deployment
+
+tbd
+
+## Screenshots
+
+INSERT SCREENSHOTS HERE
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Test](#test)
+- [Contributing/Contact](#contributing/Contact)
+- [License](#license)
+- [Deployment](#deployment)
+- [Screenshots](#screenshots)
+- [Table of Contents](#table-of-contents)

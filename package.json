@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrockHanni/Week-10-LogoMaker/issues"
   },
-  "homepage": "https://github.com/BrockHanni/Week-10-LogoMaker#readme"
+  "homepage": "https://github.com/BrockHanni/Week-10-LogoMaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
