@@ -25,6 +25,7 @@ Licenses used: no licenses used
 ## Deployment
 
 https://github.com/BrockHanni/Week-12-SQL
+
 https://brockhanni.github.io/Week-12-SQL/
 
 ## Screenshots
