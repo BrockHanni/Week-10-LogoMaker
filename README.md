@@ -30,11 +30,7 @@ https://brockhanni.github.io/Week-12-SQL/
 
 ## Screenshots
 
-
-
-https://github.com/BrockHanni/Week-10-LogoMaker/assets/106788919/dd2b0118-e74d-493d-a936-661a728de84c
-
-
+https://github.com/BrockHanni/Week-10-LogoMaker/assets/106788919/3097e143-c1c2-4a88-afef-f250f5b29d9b
 
 ## Table of Contents
 - [Installation](#installation)
