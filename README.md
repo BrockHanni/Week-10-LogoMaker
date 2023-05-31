@@ -20,7 +20,7 @@ To submit bug reports, feature requests, or pull requests, please email me at ha
 
 ## License
 
-Licenses used: tbd
+Licenses used: no licenses used
 
 ## Deployment
 
